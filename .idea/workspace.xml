@@ -8,7 +8,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="1342" />
+    <option name="totalTimeSeconds" value="6302" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1iFPX1MwtVBPgXigarJPgRMO13L" />
   <component name="ProjectViewState">
@@ -34,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500402551</updated>
-      <workItem from="1601500403616" duration="1458000" />
+      <workItem from="1601500403616" duration="6709000" />
     </task>
     <servers />
   </component>
