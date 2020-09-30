@@ -1,0 +1,11 @@
+extends layout
+
+block content
+    h1= title
+    p Welcome to #{title}
+    span(class="guest-list")
+        p Attending:
+        p Not Attending:
+        br
+        br
+        a(href="/") Go home
