@@ -6,6 +6,8 @@ const logger = require('morgan')
 
 const indexRouter = require('./routes/index')
 const usersRouter = require('./routes/users')
+const replyRouter = require('./routes/reply')
+const guestsRouter = require('./routes/guests')
 
 const app = express()
 
@@ -21,6 +23,8 @@ app.use(express.static(path.join(__dirname, 'public')))
 
 app.use('/', indexRouter)
 app.use('/users', usersRouter)
+app.use('/reply', replyRouter)
+app.use('/guests', guestsRouter)
 
 // Error handling below this line
 
