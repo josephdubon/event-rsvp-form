@@ -12,8 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9c1cfc78-c16b-4a7a-922a-307fddb8eddb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/guests.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/guests.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/reply.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/reply.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="6732" />
+    <option name="idleThresholdMs" value="60000" />
+    <option name="autoCountIdleSeconds" value="10" />
+    <option name="gitIntegration" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500402551</updated>
-      <workItem from="1601500403616" duration="7273000" />
+      <workItem from="1601500403616" duration="8645000" />
     </task>
     <servers />
   </component>
