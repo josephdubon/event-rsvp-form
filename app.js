@@ -40,7 +40,6 @@ MongoClient.connect(url, { useUnifiedTopology: true })
     app.use('/reply', replyRouter)
     app.use('/guests', guestsRouter)
 
-    // handling rsvp/reply
     app.post('/rsvp', (req, res) => {
       responsesCollection.insertOne(req.body)
         .then(result => {
